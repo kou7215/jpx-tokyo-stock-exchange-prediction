@@ -2,7 +2,7 @@
 kaggle/jpx-tokyo-stock-exchange-prediction solution using Bidirectional LSTM.<br>
 Many participants used LightGBM, however I used LSTM since I couldn't implement to make preprocess speed up.<br>
 
-## Public LB score : 0.58? (half-remembered)<br>
+## Public LB score : 0.50 ~ 0.55? (half-remembered)<br>
 However, This code has running error in test phase after submit so being **disqualified**.
 
 ## Points
