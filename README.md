@@ -7,6 +7,11 @@ However, This code has running error in test phase after submit so being disqual
 
 ## Points
 - Features: basic technical indices and floor difference.<br>
+  I used following technical indices.<br>
+  - Moving Average (5days, 25days, 75days)
+  - RSI
+  - Bollinger band
+  - MACD & Signal
 
 - Preprocess : StandardScalar after RobustScalar each SecuritiesCode.<br>
   If we apply normalization to whole dataset, scales of several stocks are too tiny or large. <br>
